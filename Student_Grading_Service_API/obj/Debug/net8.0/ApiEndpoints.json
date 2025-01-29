@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.StudentGradeController",
+    "Method": "CreateStudentGrade",
+    "RelativePath": "api/StudentGrade/CreateStudentGrade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentGrade",
+        "Type": "Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.StudentGradeController",
+    "Method": "DeleteStudentGrade",
+    "RelativePath": "api/StudentGrade/DeleteStudentGrade/{studentGradeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentGradeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.StudentGradeController",
+    "Method": "GetStudentGrades",
+    "RelativePath": "api/StudentGrade/GetStudentGrades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.StudentGradeController",
+    "Method": "GetStudentGradesById",
+    "RelativePath": "api/StudentGrade/GetStudentGradesById/{studentGradeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentGradeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.StudentGradeController",
+    "Method": "UpdateStudentGrade",
+    "RelativePath": "api/StudentGrade/UpdateStudentGrade",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentGrade",
+        "Type": "Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.SubjectController",
+    "Method": "CreateSubject",
+    "RelativePath": "api/Subject/CreateSubject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subject",
+        "Type": "Student_Grading_Service_API.Model.RequestModel.SubjectRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.SubjectController",
+    "Method": "GetBySubjectId",
+    "RelativePath": "api/Subject/GetBySubjectId/{subjectId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subjectId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.SubjectController",
+    "Method": "GetSubjects",
+    "RelativePath": "api/Subject/GetSubjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Grading_Service_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Student_Grading_Service_API.WeatherForecast, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

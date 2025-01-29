@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\model\\requestmodel\\subjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\model\\requestmodel\\subjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\controllers\\studentgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\controllers\\studentgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\dao\\implementation\\studentgrademanagementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\dao\\implementation\\studentgrademanagementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\services\\serviceimplementation\\studentgradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\services\\serviceimplementation\\studentgradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\services\\istudentgradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\services\\istudentgradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\dao\\istudentgrademanagementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\dao\\istudentgrademanagementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\model\\requestmodel\\studentgraderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\model\\requestmodel\\studentgraderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|c:\\users\\bidex\\source\\repos\\students_grading_service\\student_grading_service_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056C8E82-E006-4158-925F-712BC4A2AE7A}|Student_Grading_Service_API\\Student_Grading_Service_API.csproj|solutionrelative:student_grading_service_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Services\\ServiceImplementation\\StudentGradeService.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Services\\ServiceImplementation\\StudentGradeService.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Services\\ServiceImplementation\\StudentGradeService.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Services\\ServiceImplementation\\StudentGradeService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:30:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentGradeManagementDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\DAO\\Implementation\\StudentGradeManagementDAO.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\DAO\\Implementation\\StudentGradeManagementDAO.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\DAO\\Implementation\\StudentGradeManagementDAO.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\DAO\\Implementation\\StudentGradeManagementDAO.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAxwI0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:19:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentGradeManagementDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\DAO\\IStudentGradeManagementDAO.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\DAO\\IStudentGradeManagementDAO.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\DAO\\IStudentGradeManagementDAO.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\DAO\\IStudentGradeManagementDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:19:29.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Services\\IStudentGradeService.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Services\\IStudentGradeService.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Services\\IStudentGradeService.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Services\\IStudentGradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:18:34.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentGradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Controllers\\StudentGradeController.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Controllers\\StudentGradeController.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Controllers\\StudentGradeController.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Controllers\\StudentGradeController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:46:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Student_Grading_Service_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T16:33:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:21:22.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentGradeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Model\\RequestModel\\StudentGradeRequest.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Model\\RequestModel\\StudentGradeRequest.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Model\\RequestModel\\StudentGradeRequest.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Model\\RequestModel\\StudentGradeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:19:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Model\\RequestModel\\SubjectRequest.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Model\\RequestModel\\SubjectRequest.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Model\\RequestModel\\SubjectRequest.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Model\\RequestModel\\SubjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:19:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Grading_Service_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Bidex\\source\\repos\\Students_Grading_Service\\Student_Grading_Service_API\\Program.cs",
+              "RelativeToolTip": "Student_Grading_Service_API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:43:24.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

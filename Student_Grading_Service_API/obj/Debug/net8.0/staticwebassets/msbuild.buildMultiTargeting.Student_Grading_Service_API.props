@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Student_Grading_Service_API.props" />
+</Project>

@@ -1,0 +1,1037 @@
+2025-01-27 16:09:50.201 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:09:50.574 +01:00 [INF] Shut down complete
+2025-01-27 16:10:22.193 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:10:22.428 +01:00 [INF] Shut down complete
+2025-01-27 16:11:14.410 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:11:14.601 +01:00 [INF] Shut down complete
+2025-01-27 16:12:14.173 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:12:14.594 +01:00 [INF] Shut down complete
+2025-01-27 16:12:31.958 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:12:32.070 +01:00 [INF] Shut down complete
+2025-01-27 16:13:42.473 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:13:42.550 +01:00 [INF] Shut down complete
+2025-01-27 16:14:28.271 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:14:28.344 +01:00 [INF] Shut down complete
+2025-01-27 16:14:32.570 +01:00 [FTL] Unhandled exception
+System.ArgumentException: Cannot instantiate implementation type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO' for service type 'Student_Grading_Service_API.DAO.IStudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+2025-01-27 16:14:32.704 +01:00 [INF] Shut down complete
+2025-01-27 16:17:15.152 +01:00 [FTL] Unhandled exception
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: Student_Grading_Service_API.DAO.IStudentGradeManagementDAO Lifetime: Scoped ImplementationType: Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO': Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.) (Error while validating the service descriptor 'ServiceType: Student_Grading_Service_API.Services.IStudentGradeService Lifetime: Scoped ImplementationType: Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService': Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: Student_Grading_Service_API.DAO.IStudentGradeManagementDAO Lifetime: Scoped ImplementationType: Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO': Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Program.cs:line 31
+ ---> (Inner Exception #1) System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: Student_Grading_Service_API.Services.IStudentGradeService Lifetime: Scoped ImplementationType: Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService': Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Caching.Memory.IMemoryCache' while attempting to activate 'Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)<---
+
+2025-01-27 16:17:15.261 +01:00 [INF] Shut down complete
+2025-01-27 16:23:25.863 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:23:25.901 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:23:25.956 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:23:25.958 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:23:25.959 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:23:27.472 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger - null null
+2025-01-27 16:23:27.714 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger - 301 0 null 256.0192ms
+2025-01-27 16:23:27.732 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:23:28.054 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui-bundle.js - null null
+2025-01-27 16:23:28.056 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-27 16:23:28.057 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui.css - null null
+2025-01-27 16:23:28.076 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 342.8049ms
+2025-01-27 16:23:28.090 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:23:28.092 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:23:28.159 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 69.0048ms
+2025-01-27 16:23:28.392 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-27 16:23:28.489 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-27 16:23:28.516 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 460.5405ms
+2025-01-27 16:23:28.560 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 468.0104ms
+2025-01-27 16:23:28.522 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 468.8131ms
+2025-01-27 16:23:28.167 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-27 16:23:28.602 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui.css - 200 152034 text/css 545.548ms
+2025-01-27 16:23:28.891 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:23:28.966 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/favicon-32x32.png - null null
+2025-01-27 16:23:28.977 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-27 16:23:28.984 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/favicon-32x32.png - 200 628 image/png 18.2631ms
+2025-01-27 16:23:29.306 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:23:29.376 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 495.3052ms
+2025-01-27 16:24:08.480 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:24:08.493 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 12.4857ms
+2025-01-27 16:24:08.545 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:24:08.547 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:24:08.557 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 9.318ms
+2025-01-27 16:24:08.566 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.9504ms
+2025-01-27 16:24:08.650 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:24:08.742 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:24:08.746 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 95.9975ms
+2025-01-27 16:24:37.361 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:24:37.399 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:24:37.464 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:24:37.466 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:24:37.468 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:24:38.304 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:24:38.585 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 287.7327ms
+2025-01-27 16:24:38.624 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:24:38.625 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:24:38.649 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 24.0589ms
+2025-01-27 16:24:38.711 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 86.3935ms
+2025-01-27 16:24:38.780 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:24:39.040 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:24:39.078 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 298.5469ms
+2025-01-27 16:26:37.263 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:26:37.301 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:26:37.348 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:26:37.350 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:26:37.351 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:26:38.773 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:26:39.160 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 400.599ms
+2025-01-27 16:26:39.252 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:26:39.254 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:26:39.291 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 38.9583ms
+2025-01-27 16:26:39.394 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 140.8157ms
+2025-01-27 16:26:39.529 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:26:39.729 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 200.3ms
+2025-01-27 16:28:46.195 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:28:46.267 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:28:46.726 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:28:46.733 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:28:46.734 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:28:47.470 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:28:48.144 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 685.7435ms
+2025-01-27 16:28:48.543 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:28:48.550 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:28:48.667 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 124.0002ms
+2025-01-27 16:28:48.835 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 285.2447ms
+2025-01-27 16:28:49.095 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:28:49.795 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Subject" for actions - Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API),Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:28:50.014 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 921.3475ms
+2025-01-27 16:31:30.703 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:31:30.823 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:31:31.123 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:31:31.131 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:31:31.132 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:31:31.803 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:31:32.612 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 822.9121ms
+2025-01-27 16:31:32.916 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:31:32.923 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:31:33.020 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 104.3586ms
+2025-01-27 16:31:33.200 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 277.3105ms
+2025-01-27 16:31:33.306 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:31:33.860 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Subject" for actions - Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API),Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:31:33.917 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 610.9237ms
+2025-01-27 16:33:54.421 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:33:55.178 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:33:55.656 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:33:55.660 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:33:55.666 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:33:55.746 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:33:56.148 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 420.7718ms
+2025-01-27 16:33:56.198 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:33:56.198 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:33:56.223 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 24.4015ms
+2025-01-27 16:33:56.348 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 150.2689ms
+2025-01-27 16:33:56.458 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:33:56.932 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Subject" for actions - Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API),Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:33:57.004 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 545.5864ms
+2025-01-27 16:35:42.914 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:35:44.978 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:35:45.404 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:35:45.419 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:35:45.421 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:35:45.425 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:35:46.870 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 1514.3524ms
+2025-01-27 16:35:47.107 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:35:47.113 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:35:47.221 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 114.2822ms
+2025-01-27 16:35:47.340 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 227.5736ms
+2025-01-27 16:35:47.459 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:35:47.917 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Subject" for actions - Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API),Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 16:35:48.009 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 550.7261ms
+2025-01-27 16:43:32.267 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:43:32.385 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:43:32.699 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:43:32.702 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:43:32.703 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:43:33.410 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:43:33.891 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:43:33.892 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:43:33.909 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 498.8312ms
+2025-01-27 16:43:33.927 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 34.2955ms
+2025-01-27 16:43:34.054 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 163.4806ms
+2025-01-27 16:43:34.242 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:43:34.637 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 395.4551ms
+2025-01-27 16:45:08.236 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 16:45:08.407 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 16:45:08.746 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 16:45:08.748 +01:00 [INF] Hosting environment: Development
+2025-01-27 16:45:08.750 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 16:45:09.368 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 16:45:10.021 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 669.8149ms
+2025-01-27 16:45:10.134 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 16:45:10.134 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 16:45:10.155 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 18.7745ms
+2025-01-27 16:45:10.249 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.5726ms
+2025-01-27 16:45:10.492 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 16:45:10.872 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 379.9638ms
+2025-01-27 17:00:32.663 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:00:32.885 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:00:32.987 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:00:32.994 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:00:32.995 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:00:33.848 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:00:34.987 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 1153.8521ms
+2025-01-27 17:00:35.145 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:00:35.165 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:00:35.309 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 164.1593ms
+2025-01-27 17:00:35.436 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 271.4599ms
+2025-01-27 17:00:35.537 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:00:35.902 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 365.4468ms
+2025-01-27 17:01:28.320 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - application/json 60
+2025-01-27 17:01:28.363 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:01:28.373 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:01:28.437 +01:00 [INF] Route matched with {action = "CreateSubject", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateSubject(Student_Grading_Service_API.Model.RequestModel.SubjectRequest) on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:03:36.732 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:03:36.748 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API) in 128299.3226ms
+2025-01-27 17:03:36.749 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:03:36.750 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - 200 null application/json; charset=utf-8 128430.6543ms
+2025-01-27 17:04:22.218 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - application/json 59
+2025-01-27 17:04:22.232 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:04:22.233 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:04:22.235 +01:00 [INF] Route matched with {action = "CreateSubject", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateSubject(Student_Grading_Service_API.Model.RequestModel.SubjectRequest) on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:04:39.851 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:04:39.857 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API) in 17619.7238ms
+2025-01-27 17:04:39.865 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:04:39.869 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - 200 null application/json; charset=utf-8 17658.7393ms
+2025-01-27 17:04:58.152 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - application/json 46
+2025-01-27 17:04:58.160 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:04:58.162 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:04:58.166 +01:00 [INF] Route matched with {action = "CreateSubject", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateSubject(Student_Grading_Service_API.Model.RequestModel.SubjectRequest) on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:05:04.319 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:05:04.344 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API) in 6173.6376ms
+2025-01-27 17:05:04.352 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:05:04.356 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - 200 null application/json; charset=utf-8 6206.1159ms
+2025-01-27 17:05:27.203 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - application/json 57
+2025-01-27 17:05:27.211 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:05:27.212 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:05:27.215 +01:00 [INF] Route matched with {action = "CreateSubject", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateSubject(Student_Grading_Service_API.Model.RequestModel.SubjectRequest) on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:05:33.354 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:05:33.361 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API) in 6143.2807ms
+2025-01-27 17:05:33.373 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.CreateSubject (Student_Grading_Service_API)'
+2025-01-27 17:05:33.379 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/Subject/CreateSubject - 200 null application/json; charset=utf-8 6181.3907ms
+2025-01-27 17:16:44.308 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:16:44.405 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:16:44.697 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:16:44.699 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:16:44.701 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:16:46.764 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:16:47.661 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 937.526ms
+2025-01-27 17:16:47.711 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:16:47.712 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:16:47.791 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 76.0781ms
+2025-01-27 17:16:47.894 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 182.4266ms
+2025-01-27 17:16:48.089 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:16:48.416 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 327.0277ms
+2025-01-27 17:17:00.489 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:17:00.505 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:17:00.529 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:17:00.578 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:17:00.596 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 58.3932ms
+2025-01-27 17:17:00.599 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:17:00.600 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 111.9805ms
+2025-01-27 17:18:42.905 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:18:42.959 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:18:43.068 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:18:43.070 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:18:43.071 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:18:44.532 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:18:45.413 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 899.722ms
+2025-01-27 17:18:45.454 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:18:45.454 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:18:45.519 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 65.6378ms
+2025-01-27 17:18:45.640 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 186.1538ms
+2025-01-27 17:18:45.755 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:18:46.307 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 560.3483ms
+2025-01-27 17:18:51.712 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:18:51.737 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:18:51.777 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:18:51.836 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:18:51.856 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 69.3369ms
+2025-01-27 17:18:51.859 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:18:51.861 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 149.012ms
+2025-01-27 17:19:10.005 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 17:19:10.018 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 17:19:10.027 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:19:10.041 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:19:10.045 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 15.4941ms
+2025-01-27 17:19:10.049 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 17:19:10.050 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 46.6404ms
+2025-01-27 17:20:59.843 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:20:59.968 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:21:00.777 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:21:00.783 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:21:00.791 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:21:01.838 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:21:02.770 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 947.4178ms
+2025-01-27 17:21:02.802 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:21:02.804 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:21:02.882 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 65.171ms
+2025-01-27 17:21:03.243 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 438.86ms
+2025-01-27 17:21:03.403 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:21:03.882 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 478.8026ms
+2025-01-27 17:26:58.204 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:26:58.226 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:26:58.264 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:26:58.363 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:26:58.385 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 107.8759ms
+2025-01-27 17:26:58.387 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:26:58.388 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 184.0613ms
+2025-01-27 17:27:45.793 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:27:45.810 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:27:45.813 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:27:59.477 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:27:59.480 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 13664.568ms
+2025-01-27 17:27:59.486 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:27:59.490 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 13698.6491ms
+2025-01-27 17:28:49.652 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 117
+2025-01-27 17:28:49.662 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:28:49.664 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:28:49.679 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:29:08.154 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:29:08.163 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 18480.907ms
+2025-01-27 17:29:08.167 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:29:08.169 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 18517.2816ms
+2025-01-27 17:29:43.645 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:29:43.657 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:29:43.658 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:29:43.659 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:29:46.836 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:29:47.089 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:29:47.240 +01:00 [ERR] System.InvalidOperationException: Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\DAO\Implementation\StudentGradeManagementDAO.cs:line 27
+   at Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Services\ServiceImplementation\StudentGradeService.cs:line 17
+   at Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade(StudentGradeRequest studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Controllers\StudentGradeController.cs:line 40
+2025-01-27 17:29:47.246 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:29:47.249 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 3587.0251ms
+2025-01-27 17:29:47.260 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:29:47.264 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 3619.5535ms
+2025-01-27 17:31:03.274 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:31:03.297 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:31:03.302 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:31:03.307 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:32:28.163 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:32:28.221 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:32:28.293 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:32:28.295 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:32:28.297 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:32:29.331 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:32:30.069 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 749.8531ms
+2025-01-27 17:32:30.106 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:32:30.108 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:32:30.146 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 39.158ms
+2025-01-27 17:32:30.238 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 131.4715ms
+2025-01-27 17:32:30.529 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:32:31.031 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 501.8094ms
+2025-01-27 17:32:47.818 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:32:47.837 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:32:47.865 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:32:47.918 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:32:47.936 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 62.8689ms
+2025-01-27 17:32:47.939 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:32:47.940 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 122.1226ms
+2025-01-27 17:32:56.698 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:32:56.716 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:32:56.719 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:32:56.734 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:32:56.814 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:32:56.821 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 81.4906ms
+2025-01-27 17:32:56.825 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:32:56.826 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 128.5853ms
+2025-01-27 17:33:25.432 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:33:25.437 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:33:25.439 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:33:25.442 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:35:19.220 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:35:19.315 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:35:19.498 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:35:19.512 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:35:19.514 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:35:20.790 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:35:21.477 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 702.8586ms
+2025-01-27 17:35:21.502 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:35:21.502 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:35:21.564 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 61.8612ms
+2025-01-27 17:35:21.658 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 155.4705ms
+2025-01-27 17:35:21.778 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:35:22.185 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 406.9876ms
+2025-01-27 17:35:55.475 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:35:55.502 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:35:55.509 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:35:55.550 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:37:13.948 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:37:14.296 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:37:14.381 +01:00 [ERR] System.InvalidOperationException: Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\DAO\Implementation\StudentGradeManagementDAO.cs:line 27
+   at Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Services\ServiceImplementation\StudentGradeService.cs:line 17
+   at Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade(StudentGradeRequest studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Controllers\StudentGradeController.cs:line 40
+2025-01-27 17:37:14.409 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:37:14.431 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 78869.6211ms
+2025-01-27 17:37:14.434 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:37:14.436 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 78962.1235ms
+2025-01-27 17:37:16.583 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:37:16.617 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:37:16.624 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:37:16.626 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:37:56.935 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:37:57.142 +01:00 [ERR] Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+2025-01-27 17:37:57.144 +01:00 [ERR] System.InvalidOperationException: Must add values for the following parameters: @StudentGradeId, @FirstName, @LastName, @Grade, @SubjectId, @Remarks, @AssignDate
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\DAO\Implementation\StudentGradeManagementDAO.cs:line 27
+   at Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService.CreateStudentGrade(StudentGrade studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Services\ServiceImplementation\StudentGradeService.cs:line 17
+   at Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade(StudentGradeRequest studentGrade) in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Controllers\StudentGradeController.cs:line 40
+2025-01-27 17:37:57.147 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:37:57.151 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 40500.4959ms
+2025-01-27 17:37:57.153 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:37:57.156 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 40572.5696ms
+2025-01-27 17:39:52.514 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:39:52.526 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:39:52.527 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:39:52.530 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:45:48.227 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:45:48.274 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:45:48.347 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:45:48.349 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:45:48.350 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:45:49.376 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:45:50.063 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 697.2595ms
+2025-01-27 17:45:50.100 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:45:50.101 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:45:50.121 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 20.2413ms
+2025-01-27 17:45:50.244 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 143.1946ms
+2025-01-27 17:45:50.329 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:45:50.664 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 335.6437ms
+2025-01-27 17:46:09.066 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 17:46:09.080 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 17:46:09.107 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 17:46:09.316 +01:00 [ERR] SQLite Error 1: 'no such table: StudentGrade'.
+2025-01-27 17:46:09.500 +01:00 [ERR] SQLite Error 1: 'no such table: StudentGrade'.
+2025-01-27 17:46:09.564 +01:00 [ERR] Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: StudentGrade'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\DAO\Implementation\StudentGradeManagementDAO.cs:line 100
+   at Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Services\ServiceImplementation\StudentGradeService.cs:line 35
+   at Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Controllers\StudentGradeController.cs:line 126
+2025-01-27 17:46:09.886 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 772.578ms
+2025-01-27 17:46:09.950 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 17:46:10.096 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: StudentGrade'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at Student_Grading_Service_API.DAO.Implementation.StudentGradeManagementDAO.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\DAO\Implementation\StudentGradeManagementDAO.cs:line 100
+   at Student_Grading_Service_API.Services.ServiceImplementation.StudentGradeService.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Services\ServiceImplementation\StudentGradeService.cs:line 35
+   at Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades() in C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\Controllers\StudentGradeController.cs:line 126
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 17:46:10.125 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 500 null text/plain; charset=utf-8 1059.3375ms
+2025-01-27 17:47:29.157 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 17:47:29.226 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 17:47:29.310 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 17:47:29.534 +01:00 [INF] Hosting environment: Development
+2025-01-27 17:47:29.558 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 17:47:30.161 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 17:47:30.953 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 806.0692ms
+2025-01-27 17:47:30.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 17:47:30.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 17:47:31.093 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 99.7466ms
+2025-01-27 17:47:31.275 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 281.8266ms
+2025-01-27 17:47:31.377 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 17:47:31.710 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 331.4457ms
+2025-01-27 17:47:40.589 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 17:47:40.602 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:47:40.629 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 17:47:40.692 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 17:47:40.709 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 70.424ms
+2025-01-27 17:47:40.710 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 17:47:40.711 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 121.6095ms
+2025-01-27 17:49:12.162 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 17:49:12.191 +01:00 [INF] CORS policy execution successful.
+2025-01-27 17:49:12.193 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 17:49:12.208 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:29:01.376 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 18:29:01.464 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 18:29:01.842 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 18:29:01.843 +01:00 [INF] Hosting environment: Development
+2025-01-27 18:29:01.846 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 18:29:02.430 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:29:03.506 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 1091.2808ms
+2025-01-27 18:29:03.662 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:29:03.662 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:29:03.714 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 52.0855ms
+2025-01-27 18:29:03.901 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 238.9281ms
+2025-01-27 18:29:04.015 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:29:04.499 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 484.0067ms
+2025-01-27 18:29:18.710 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 18:29:18.731 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:29:18.736 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:29:18.777 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:29:18.895 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:29:18.915 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 129.7757ms
+2025-01-27 18:29:18.918 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:29:18.919 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 208.8419ms
+2025-01-27 18:29:45.199 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 18:29:45.226 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 18:29:45.241 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 18:29:45.249 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:29:45.255 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 11.404ms
+2025-01-27 18:29:45.257 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 18:29:45.259 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 60.0574ms
+2025-01-27 18:30:19.052 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 18:30:19.066 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:30:19.069 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:30:19.072 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:32:24.065 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 18:32:24.285 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 18:32:24.373 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 18:32:24.374 +01:00 [INF] Hosting environment: Development
+2025-01-27 18:32:24.378 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 18:32:24.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:32:25.469 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:32:25.473 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:32:25.476 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 495.3516ms
+2025-01-27 18:32:25.523 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 48.2163ms
+2025-01-27 18:32:25.665 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 195.9436ms
+2025-01-27 18:32:25.778 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:32:26.043 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 265.6867ms
+2025-01-27 18:33:00.274 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 123
+2025-01-27 18:33:00.296 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:33:00.301 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:33:00.350 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:33:16.620 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:33:16.636 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 16279.0229ms
+2025-01-27 18:33:16.638 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:33:16.641 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 200 null application/json; charset=utf-8 16371.9989ms
+2025-01-27 18:33:58.350 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:33:58.400 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 50.2923ms
+2025-01-27 18:33:58.468 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:33:58.468 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:33:58.484 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 15.7728ms
+2025-01-27 18:33:58.525 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 57.0184ms
+2025-01-27 18:33:58.699 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:33:58.776 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 76.8209ms
+2025-01-27 18:34:06.350 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 18:34:06.365 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:34:06.373 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:34:06.387 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:34:06.395 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 18.7455ms
+2025-01-27 18:34:06.397 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:34:06.399 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 49.4858ms
+2025-01-27 18:35:55.976 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:35:55.993 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 17.3543ms
+2025-01-27 18:35:56.047 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:35:56.047 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:35:56.054 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 6.4195ms
+2025-01-27 18:35:56.076 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.8964ms
+2025-01-27 18:35:56.138 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:35:56.206 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 67.3372ms
+2025-01-27 18:36:02.438 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 18:36:02.442 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:36:02.454 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:36:02.461 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:36:02.467 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 8.1989ms
+2025-01-27 18:36:02.470 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:36:02.472 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 35.8224ms
+2025-01-27 18:36:32.566 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:36:32.584 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 18.2052ms
+2025-01-27 18:36:32.675 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:36:32.675 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:36:32.693 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 17.4757ms
+2025-01-27 18:36:32.738 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.4055ms
+2025-01-27 18:36:32.850 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:36:32.875 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.7648ms
+2025-01-27 18:36:36.013 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 18:36:36.019 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:36:36.026 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:36:36.033 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:36:36.038 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 6.0832ms
+2025-01-27 18:36:36.040 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:36:36.042 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 29.4183ms
+2025-01-27 18:36:58.391 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:36:58.396 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 5.0869ms
+2025-01-27 18:36:58.449 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:36:58.451 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:36:58.466 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 15.0718ms
+2025-01-27 18:36:58.483 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.7511ms
+2025-01-27 18:36:58.543 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:36:58.714 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 170.823ms
+2025-01-27 18:39:53.741 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 18:39:53.746 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:39:53.757 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:39:53.761 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:39:53.764 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 4.4769ms
+2025-01-27 18:39:53.766 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 18:39:53.767 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 31.8305ms
+2025-01-27 18:41:19.263 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:41:19.305 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 41.4425ms
+2025-01-27 18:41:19.379 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:41:19.380 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:41:19.399 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 19.2355ms
+2025-01-27 18:41:19.418 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.1124ms
+2025-01-27 18:41:19.596 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:41:19.644 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 48.0089ms
+2025-01-27 18:41:24.850 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:41:24.865 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 14.9014ms
+2025-01-27 18:41:24.919 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:41:24.928 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:41:24.942 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.2335ms
+2025-01-27 18:41:24.945 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 16.8957ms
+2025-01-27 18:41:25.030 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:41:25.051 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.1501ms
+2025-01-27 18:41:49.803 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - application/json 180
+2025-01-27 18:41:49.819 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:41:49.826 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:41:49.832 +01:00 [INF] Route matched with {action = "UpdateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] UpdateStudentGrade(Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:41:50.342 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API) in 506.7149ms
+2025-01-27 18:41:50.435 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:41:50.601 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The JSON property name for 'Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest.studentGradeId' collides with another property.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerPropertyNameConflict(Type type, String propertyName)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo.JsonPropertyInfoList.AddPropertyWithConflictResolution(JsonPropertyInfo jsonPropertyInfo, PropertyHierarchyResolutionState& state)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.AddMembersDeclaredBySuperType(JsonTypeInfo typeInfo, Type currentType, Boolean constructorHasSetsRequiredMembersAttribute, PropertyHierarchyResolutionState& state)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.PopulateProperties(JsonTypeInfo typeInfo)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.CreateTypeInfoCore(Type type, JsonConverter converter, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.GetTypeInfo(Type type, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoNoCaching(Type type)
+   at System.Text.Json.JsonSerializerOptions.CachingContext.CreateCacheEntry(Type type, CachingContext context)
+--- End of stack trace from previous location ---
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoInternal(Type type, Boolean ensureConfigured, Nullable`1 ensureNotNull, Boolean resolveIfMutable, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoForRootType(Type type, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializer.DeserializeAsync(Stream utf8Json, Type returnType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 18:41:50.664 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - 500 null text/plain; charset=utf-8 860.8281ms
+2025-01-27 18:50:10.420 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - application/json 180
+2025-01-27 18:50:10.434 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:50:10.435 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:50:10.437 +01:00 [INF] Route matched with {action = "UpdateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] UpdateStudentGrade(Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:50:10.745 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API) in 305.5351ms
+2025-01-27 18:50:10.804 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:50:10.942 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The JSON property name for 'Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest.studentGradeId' collides with another property.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerPropertyNameConflict(Type type, String propertyName)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo.JsonPropertyInfoList.AddPropertyWithConflictResolution(JsonPropertyInfo jsonPropertyInfo, PropertyHierarchyResolutionState& state)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.AddMembersDeclaredBySuperType(JsonTypeInfo typeInfo, Type currentType, Boolean constructorHasSetsRequiredMembersAttribute, PropertyHierarchyResolutionState& state)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.PopulateProperties(JsonTypeInfo typeInfo)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.CreateTypeInfoCore(Type type, JsonConverter converter, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Metadata.DefaultJsonTypeInfoResolver.GetTypeInfo(Type type, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoNoCaching(Type type)
+   at System.Text.Json.JsonSerializerOptions.CachingContext.CreateCacheEntry(Type type, CachingContext context)
+--- End of stack trace from previous location ---
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoInternal(Type type, Boolean ensureConfigured, Nullable`1 ensureNotNull, Boolean resolveIfMutable, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializerOptions.GetTypeInfoForRootType(Type type, Boolean fallBackToNearestAncestorType)
+   at System.Text.Json.JsonSerializer.DeserializeAsync(Stream utf8Json, Type returnType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 18:50:10.955 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - 500 null text/plain; charset=utf-8 536.433ms
+2025-01-27 18:50:36.720 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 18:50:36.778 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 18:50:36.856 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 18:50:36.857 +01:00 [INF] Hosting environment: Development
+2025-01-27 18:50:36.859 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 18:50:38.426 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:50:39.770 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:50:39.774 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 1361.0619ms
+2025-01-27 18:50:39.782 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:50:39.852 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 70.0257ms
+2025-01-27 18:50:39.946 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 176.8496ms
+2025-01-27 18:50:40.054 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:50:40.589 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 535.1793ms
+2025-01-27 18:51:06.640 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - application/json 180
+2025-01-27 18:51:06.661 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:51:06.665 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:51:06.692 +01:00 [INF] Route matched with {action = "UpdateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] UpdateStudentGrade(Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:51:06.732 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-27 18:51:06.754 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API) in 54.7983ms
+2025-01-27 18:51:06.757 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:51:06.758 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - 400 null application/problem+json; charset=utf-8 118.3853ms
+2025-01-27 18:51:52.537 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:51:52.576 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 39.4395ms
+2025-01-27 18:51:52.660 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:51:52.660 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:51:52.681 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 21.347ms
+2025-01-27 18:51:52.741 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 87.2782ms
+2025-01-27 18:51:52.836 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:51:52.902 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 66.3792ms
+2025-01-27 18:52:02.978 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - application/json 180
+2025-01-27 18:52:02.988 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:52:02.991 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:52:03.006 +01:00 [INF] Route matched with {action = "UpdateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] UpdateStudentGrade(Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:52:03.501 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API) in 491.8329ms
+2025-01-27 18:52:03.730 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:52:03.955 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.MissingMethodException: Attempted to invoke a deleted method implementation. This can happen when a method is deleted or its name or signature is changed while the application is running.
+   at Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest.get_AssignDate()
+   at Microsoft.Extensions.Internal.PropertyHelper.CallNullSafePropertyGetter[TDeclaringType,TValue](Func`2 getter, Object target)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationEntry.get_Model()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitImplementation(ModelMetadata& metadata, String& key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata, Object container)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult, Object container)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-27 18:52:04.047 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - 500 null text/plain; charset=utf-8 1069.2972ms
+2025-01-27 18:52:58.117 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 18:52:58.466 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 18:52:59.172 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 18:52:59.204 +01:00 [INF] Hosting environment: Development
+2025-01-27 18:52:59.207 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 18:52:59.350 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:53:00.326 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 985.9245ms
+2025-01-27 18:53:00.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:53:00.350 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:53:00.417 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 84.8138ms
+2025-01-27 18:53:00.630 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 276.8329ms
+2025-01-27 18:53:00.790 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:53:01.326 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 535.5814ms
+2025-01-27 18:53:23.429 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - application/json 180
+2025-01-27 18:53:23.457 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:53:23.463 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:53:23.513 +01:00 [INF] Route matched with {action = "UpdateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] UpdateStudentGrade(Student_Grading_Service_API.Model.RequestModel.UpdateStudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:53:30.433 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 18:53:30.450 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API) in 6929.773ms
+2025-01-27 18:53:30.452 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.UpdateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:53:30.455 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/StudentGrade/UpdateStudentGrade - 200 null application/json; charset=utf-8 7028.0247ms
+2025-01-27 18:55:17.868 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:55:17.900 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 32.6244ms
+2025-01-27 18:55:17.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:55:17.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:55:18.050 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 56.4306ms
+2025-01-27 18:55:18.084 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.0339ms
+2025-01-27 18:55:18.233 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:55:18.261 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 31.1719ms
+2025-01-27 18:57:12.014 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 149
+2025-01-27 18:57:12.039 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:57:12.044 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:57:12.052 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:57:12.397 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-27 18:57:12.425 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 368.8729ms
+2025-01-27 18:57:12.428 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:57:12.431 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/problem+json; charset=utf-8 417.5366ms
+2025-01-27 18:58:14.955 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 149
+2025-01-27 18:58:14.967 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:58:14.977 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:58:14.979 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:58:15.195 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-27 18:58:15.197 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 215.2436ms
+2025-01-27 18:58:15.199 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:58:15.201 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/problem+json; charset=utf-8 248.8326ms
+2025-01-27 18:59:11.408 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 18:59:11.661 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 18:59:11.955 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 18:59:12.092 +01:00 [INF] Hosting environment: Development
+2025-01-27 18:59:12.094 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 18:59:12.328 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 18:59:13.162 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 847.8205ms
+2025-01-27 18:59:13.189 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 18:59:13.189 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 18:59:13.426 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 236.4749ms
+2025-01-27 18:59:13.742 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 552.6408ms
+2025-01-27 18:59:13.858 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 18:59:14.376 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 518.0855ms
+2025-01-27 18:59:22.643 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 149
+2025-01-27 18:59:22.660 +01:00 [INF] CORS policy execution successful.
+2025-01-27 18:59:22.665 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:59:22.697 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 18:59:23.045 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-27 18:59:23.080 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 374.3918ms
+2025-01-27 18:59:23.081 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 18:59:23.083 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/problem+json; charset=utf-8 439.6773ms
+2025-01-27 19:00:58.711 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 149
+2025-01-27 19:00:58.721 +01:00 [INF] CORS policy execution successful.
+2025-01-27 19:00:58.722 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:00:58.723 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Student_Grading_Service_API.GenericResponse.ApiResponse`1[Student_Grading_Service_API.Model.StudentGrade]]] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 19:00:58.881 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-27 19:00:58.882 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 156.4841ms
+2025-01-27 19:00:58.883 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:00:58.886 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/problem+json; charset=utf-8 175.6675ms
+2025-01-27 19:05:51.515 +01:00 [INF] Now listening on: https://localhost:7261
+2025-01-27 19:05:51.574 +01:00 [INF] Now listening on: http://localhost:5240
+2025-01-27 19:05:51.679 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-27 19:05:51.685 +01:00 [INF] Hosting environment: Development
+2025-01-27 19:05:51.686 +01:00 [INF] Content root path: C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
+2025-01-27 19:05:53.678 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2025-01-27 19:05:54.195 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 527.0463ms
+2025-01-27 19:05:54.293 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-27 19:05:54.293 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2025-01-27 19:05:54.421 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13790 application/javascript; charset=utf-8 129.0804ms
+2025-01-27 19:05:54.524 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 231.5094ms
+2025-01-27 19:05:54.625 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2025-01-27 19:05:54.967 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 341.7951ms
+2025-01-27 19:06:09.723 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 120
+2025-01-27 19:06:09.737 +01:00 [INF] CORS policy execution successful.
+2025-01-27 19:06:09.742 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:06:09.767 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 19:06:15.262 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:06:15.275 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 5499.3516ms
+2025-01-27 19:06:15.279 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:06:15.281 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 400 null application/json; charset=utf-8 5557.5009ms
+2025-01-27 19:06:24.689 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - null null
+2025-01-27 19:06:24.695 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 19:06:24.704 +01:00 [INF] Route matched with {action = "GetSubjects", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetSubjects() on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 19:06:24.711 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:06:24.716 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API) in 8.4942ms
+2025-01-27 19:06:24.720 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetSubjects (Student_Grading_Service_API)'
+2025-01-27 19:06:24.721 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetSubjects - 200 null application/json; charset=utf-8 32.3022ms
+2025-01-27 19:06:38.382 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/Subject/GetBySubjectId/SUB25dbe1 - null null
+2025-01-27 19:06:38.392 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API)'
+2025-01-27 19:06:38.401 +01:00 [INF] Route matched with {action = "GetBySubjectId", controller = "Subject"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetBySubjectId(System.String) on controller Student_Grading_Service_API.Controllers.SubjectController (Student_Grading_Service_API).
+2025-01-27 19:06:38.409 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.Subject, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:06:38.412 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API) in 8.183ms
+2025-01-27 19:06:38.417 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.SubjectController.GetBySubjectId (Student_Grading_Service_API)'
+2025-01-27 19:06:38.419 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/Subject/GetBySubjectId/SUB25dbe1 - 200 null application/json; charset=utf-8 37.3562ms
+2025-01-27 19:07:09.236 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 117
+2025-01-27 19:07:09.247 +01:00 [INF] CORS policy execution successful.
+2025-01-27 19:07:09.248 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:07:09.249 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 19:07:17.430 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:07:17.435 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 8183.1852ms
+2025-01-27 19:07:17.512 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:07:17.513 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 200 null application/json; charset=utf-8 8277.5209ms
+2025-01-27 19:36:47.478 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - application/json 117
+2025-01-27 19:36:47.481 +01:00 [INF] CORS policy execution successful.
+2025-01-27 19:36:47.482 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:36:47.483 +01:00 [INF] Route matched with {action = "CreateStudentGrade", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] CreateStudentGrade(Student_Grading_Service_API.Model.RequestModel.StudentGradeRequest) on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 19:37:07.850 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponse`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:37:07.853 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API) in 20363.6616ms
+2025-01-27 19:37:07.861 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.CreateStudentGrade (Student_Grading_Service_API)'
+2025-01-27 19:37:07.866 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7261/api/StudentGrade/CreateStudentGrade - 200 null application/json; charset=utf-8 20389.0734ms
+2025-01-27 19:37:21.491 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - null null
+2025-01-27 19:37:21.501 +01:00 [INF] Executing endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 19:37:21.514 +01:00 [INF] Route matched with {action = "GetStudentGrades", controller = "StudentGrade"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetStudentGrades() on controller Student_Grading_Service_API.Controllers.StudentGradeController (Student_Grading_Service_API).
+2025-01-27 19:37:21.525 +01:00 [INF] Executing OkObjectResult, writing value of type 'Student_Grading_Service_API.GenericResponse.ApiResponseList`1[[Student_Grading_Service_API.Model.StudentGrade, Student_Grading_Service_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-01-27 19:37:21.539 +01:00 [INF] Executed action Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API) in 22.7888ms
+2025-01-27 19:37:21.541 +01:00 [INF] Executed endpoint 'Student_Grading_Service_API.Controllers.StudentGradeController.GetStudentGrades (Student_Grading_Service_API)'
+2025-01-27 19:37:21.542 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7261/api/StudentGrade/GetStudentGrades - 200 null application/json; charset=utf-8 51.2417ms
