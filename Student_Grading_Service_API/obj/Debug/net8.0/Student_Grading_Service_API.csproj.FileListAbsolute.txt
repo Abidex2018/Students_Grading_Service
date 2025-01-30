@@ -68,3 +68,4 @@ C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API
 C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Bidex\source\repos\Students_Grading_Service\Student_Grading_Service_API\obj\Debug\net8.0\Student_Grading_Service_API.sourcelink.json

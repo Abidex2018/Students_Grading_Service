@@ -186,7 +186,7 @@ namespace Student_Grading_Service_API.Controllers
 
               
 
-                message = "Students Grade List generated Succesfully";
+                message = "Student Grade Details generated Succesfully";
 
                 return Ok(new ApiResponse<StudentGrade>(true, studentGrade, message));
 
